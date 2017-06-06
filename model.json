@@ -1,0 +1,13 @@
+{
+  "intents": [
+    {
+      "slots": [
+        {
+          "name": "catchall",
+          "type": "CATCHALL"
+        }
+      ],
+      "intent": "questionintent"
+    }
+  ]
+}
